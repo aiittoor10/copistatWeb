@@ -1,0 +1,17 @@
+[
+    {
+      "nombre": "Locutorio Ali",
+      "ciudad": "Bilbao",
+      "barrio": "Santutxu",
+      "cp": "48004",
+      "enlace": "https://maps.google.com/?q=Santutxu"
+    },
+    {
+      "nombre": "Copistería Montero Espinosa",
+      "ciudad": "Mostoles",
+      "barrio": "Centro",
+      "cp": "28933",
+      "enlace": "https://maps.google.com/?q=Mostoles"
+    }
+  ]
+  
