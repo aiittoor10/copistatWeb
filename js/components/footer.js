@@ -31,7 +31,7 @@ export function footer() {
               <div class="col-md-4 text-center text-md-start">
                 <h6 class="text-uppercase mb-3">Contacto</h6>
                 <p class="small mb-1"><i class="fas fa-envelope me-2"></i> contacto@copistat.com</p>
-                <p class="small mb-3"><i class="fas fa-map-marker-alt me-2"></i> Magallanes 3, Barakaldo</p>
+                <p class="small mb-3"><i class="fas fa-map-marker-alt me-2"></i>Pintor Velazquez 33, Móstoles 28933</p>
                 <div>
                   <a href="https://github.com/aiittoor10" class="text-light me-2"><i class="fab fa-github fa-lg"></i></a>
                   <a href="https://es.linkedin.com/in/aitor-cobo-fari%C3%B1as-320616297" class="text-light me-2"><i class="fab fa-linkedin fa-lg"></i></a>
